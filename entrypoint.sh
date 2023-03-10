@@ -10,7 +10,7 @@ uuidtwo=72c2590f-93b8-40d3-82d4-51c796e48845
 uuidthree=b3d32abb-695f-4001-8d85-4a354050f9a9
 uuidfour=c1ab541d-3500-46eb-a651-a2d924072826
 uuidfive=3b8db9e4-a943-4ae6-b6bb-f82ad326cd74
-mypath=/file-myfile
+mypath=/helloword-test
 myport=8080
 
 
